@@ -1,0 +1,14 @@
+{
+  "name": "crickquiz",
+  "version": "1.0.0",
+  "description": "a cli based cricket quiz app to check knowledge of indian cricket team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mehul satardekar",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
